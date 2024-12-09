@@ -2,7 +2,7 @@
 
 In honor of Spotify Wrapped releasing, I've made this little Spotify automation bot.
 
-This project automates following artists, on Spotify. It uses the `selenium` library to simulate user interactions with Spotify's web interface. The bot logs into Spotify with your credentials, navigates to the pages of specified artists, and clicks the "Follow" button for them.
+This project automates following artists on Spotify. It uses the `selenium` library to simulate user interactions with Spotify's web interface. The bot logs into Spotify with your credentials, navigates to the pages of specified artists, and clicks the "Follow" button for them.
 
 ### Key Features
 
