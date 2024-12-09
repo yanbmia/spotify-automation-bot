@@ -66,8 +66,7 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 ## Limitations
-- This bot relies on Spotify's current web interface. 
-- If the interface changes, the script may require updates.
+- This bot relies on Spotify's current web interface. If the interface changes, the script may require updates.
 - Use this script responsibly to avoid violating Spotify's terms of service. (pls don't sue me, I'm a student and this was for fun!)
 
 **Always comply with Spotify's terms of service.**
