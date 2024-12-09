@@ -71,6 +71,3 @@ to discuss what you would like to change.
 - Use this script responsibly to avoid violating Spotify's terms of service. (pls don't sue me, I'm a student and this was for fun!)
 
 **Always comply with Spotify's terms of service.**
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
