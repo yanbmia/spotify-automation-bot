@@ -1,0 +1,41 @@
+# Environment-specific files
+.DS_Store
+Thumbs.db
+
+# Python-specific files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment folders
+env/
+venv/
+
+# Credentials and sensitive files
+config.json
+.env
+spotify_credentials.txt
+
+# IDE and editor files
+.idea/
+*.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+*.swp
+*.bak
+*.tmp
+*.lock
+
+# Driver files (if necessary)
+chromedriver
+chromedriver.exe
